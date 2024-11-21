@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dylan Dog Editions</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Custom Styles */
+        body {
+            background-color: #000000;
+            font-family: 'Arial', sans-serif;
+            color: #ffffff;
+        }
+
+        .container {
+            margin-top: 50px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        h1 img {
+            width: 50px;
+            height: auto;
+            margin-left: 15px;
+        }
+
+        .btn-edition {
+            color: #ffcc00; /* Yellow text */
+            font-size: 1.25rem;
+            padding: 15px 30px;
+            margin: 10px;
+            text-transform: uppercase;
+            border-radius: 25px;
+            border: 2px solid #ffcc00; /* Yellow border */
+            background-color: #000000; /* Black background */
+            transition: all 0.3s ease;
+        }
+
+        .btn-edition:hover {
+            background-color: #ffcc00; /* Yellow background on hover */
+            color: #000000; /* Black text on hover */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-edition:active {
+            transform: translateY(2px);
+            box-shadow: none;
+        }
+
+        .btn-manage {
+            color: #ffffff;
+            background-color: #ffcc00;
+            border-radius: 25px;
+            border: none;
+            padding: 15px 30px;
+            font-size: 1.25rem;
+            margin-top: 30px;
+            transition: all 0.3s ease;
+        }
+
+        .btn-manage:hover {
+            background-color: #ff9900;
+        }
+
+        /* Image Styling */
+        .hero-image {
+            width: 20%;
+            max-width: 630px;
+            margin: 0 auto 30px auto;
+            display: block;
+            border: 5px solid #ffcc00; /* Yellow border */
+            border-radius: 15px;
+        }
+
+        /* Arrow Button Styling */
+        .btn-back {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            background-color: #ffffff;
+            color: #ffcc00;
+            font-size: 1.5rem;
+            padding: 10px 20px;
+            border-radius: 50%;
+            border: 2px solid #ffcc00;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+
+        .btn-back:hover {
+            background-color: #000000;
+            color: #ffcc00;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-back i {
+            font-size: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Arrow Button -->
+    <a href="{{ url_for('index') }}">
+        <button class="btn-back">&#8592;</button> <!-- Left Arrow -->
+    </a>
+
+    <div class="container">
+        <!-- Header Section -->
+        <h1>
+            Dylan Dog Editions
+            <img src="static/images/dog.png" alt="Dylan Dog Icon">
+        </h1>
+
+        <!-- Hero Image -->
+        <img src="static/images/dog.png" alt="Dylan Dog Hero" class="hero-image">
+
+        <!-- Edition Buttons -->
+        <div class="d-flex justify-content-center flex-wrap">
+            <a href="{{ url_for('comics_by_edition', edition='extra', hero='dog') }}">
+                <button class="btn btn-edition btn-extra">Extra</button>
+            </a>
+            <a href="{{ url_for('comics_by_edition', edition='almanah', hero='dog') }}">
+                <button class="btn btn-edition btn-almanah">Almanah</button>
+            </a>
+            <a href="{{ url_for('comics_by_edition', edition='gigant', hero='dog') }}">
+                <button class="btn btn-edition btn-gigant">Gigant</button>
+            </a>
+            <a href="{{ url_for('comics_by_edition', edition='normal', hero='dog') }}">
+                <button class="btn btn-edition btn-normal">Normal</button>
+            </a>
+            <a href="{{ url_for('comics_by_edition', edition='special', hero='dog') }}">
+                <button class="btn btn-edition btn-special">Special</button>
+            </a>
+        </div>
+
+        <!-- Manage Library Section -->
+        <div class="manage-library-section mt-5">
+            <h2 class="text-white">Manage Library</h2>
+
+            <!-- Buttons to access Set Ownership and Question Ownership pages -->
+            <a href="{{ url_for('set_ownership', hero='dog') }}">
+                <button class="btn btn-manage">Set Ownership</button>
+            </a>
+            <a href="{{ url_for('question_ownership_form', hero='dog') }}">
+                <button class="btn btn-manage">Question Ownership</button>
+            </a>
+            <a href="{{ url_for('get_stats_page', hero='dog') }}">
+                <button class="btn btn-manage">Statistics</button>
+            </a>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

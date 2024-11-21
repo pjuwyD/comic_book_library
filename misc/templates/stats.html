@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ hero|capitalize }} - Statistics</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Default (dog) styles */
+        body {
+            background-color: #000000; /* Black background */
+            color: #ffffff; /* White text */
+            font-family: 'Arial', sans-serif;
+        }
+
+        .container {
+            margin-top: 50px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #ffffff;
+            font-size: 3rem;
+            margin-bottom: 30px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 12px;
+            font-size: 1.1rem;
+            color: #ffffff;
+        }
+
+        th {
+            background-color: #222222;
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: #333333;
+        }
+
+        .popup {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            padding: 20px;
+            background: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .popup img {
+            max-width: 100%;
+        }
+
+        .overlay {
+            display: none;
+            position: fixed;
+            z-index: 999;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+        }
+
+        .btn {
+            color: #ffffff;
+            font-size: 1.25rem;
+            padding: 15px 30px;
+            margin: 10px;
+            text-transform: uppercase;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+            border: 2px solid #ffd700; /* Yellow border */
+            background-color: #000000; /* Black background */
+        }
+
+        .btn:hover {
+            background-color: #ffd700;
+            color: #000000;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn:active {
+            transform: translateY(2px);
+            box-shadow: none;
+        }
+
+        /* Styles for hero "ledd" (blue/white combo) */
+        .ledd {
+            background-color: #007bff !important; /* Blue background */
+            color: #ffffff !important; /* White text */
+        }
+
+        .ledd h1 {
+            color: #ffffff; /* White text */
+        }
+
+        .ledd th {
+            background-color: #0056b3; /* Dark blue header */
+        }
+
+        .ledd tr:nth-child(even) {
+            background-color: #3399ff; /* Lighter blue rows */
+        }
+
+        .ledd .btn {
+            color: #007bff; /* Blue text */
+            background-color: #ffffff; /* White background */
+            border: 2px solid #007bff; /* Blue border */
+        }
+
+        .ledd .btn:hover {
+            background-color: #e6f2ff; /* Light blue hover */
+            color: #0056b3; /* Darker blue text */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>{{ hero|capitalize }} - Edition Statistics</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Edition</th>
+                    <th>Total Comics</th>
+                    <th>Owned</th>
+                    <th>Missing</th>
+                    <th>Missing Numbers</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for edition, data in stats.items() %}
+                <tr>
+                    <td>{{ edition|capitalize }}</td>
+                    <td>{{ data.total }}</td>
+                    <td>{{ data.owned }}</td>
+                    <td>{{ data.missing }}</td>
+                    <td>{{ data.missing_numbers | join(', ') }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <!-- Back button -->
+        <a id="backButton" href="#" class="btn">Back</a>
+    </div>
+    <script>
+        var hero = "{{ hero }}";
+
+        // Apply dynamic styling based on the hero
+        if (hero === "ledd") {
+            document.body.classList.add('ledd');
+        } else {
+            document.body.classList.remove('ledd');
+        }
+
+        // Adjust back button link based on the hero
+        if (hero === "dog") {
+            document.getElementById('backButton').href = "{{ url_for('dylan_dog') }}";
+        } else if (hero === "ledd") {
+            document.getElementById('backButton').href = "{{ url_for('lazarus_ledd') }}";
+        }
+    </script>
+    <!-- Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
