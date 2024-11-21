@@ -14,7 +14,7 @@
         "broj_stranica": "128",
         "originalni_naslov": "Il cielo sopra Parigi",
         "originalni_broj": "7",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/extra/1/LL_EXT_1.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/extra/1/LL_EXT_1.jpg",
         "owned": true
     },
     {
@@ -32,7 +32,7 @@
         "broj_stranica": "128",
         "originalni_naslov": "Il potere del talismano",
         "originalni_broj": "8",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/extra/2/LL_EXT_2.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/extra/2/LL_EXT_2.jpg",
         "owned": true
     },
     {
@@ -50,7 +50,7 @@
         "broj_stranica": "128",
         "originalni_naslov": "Sotto accusa",
         "originalni_broj": "5",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/extra/3/LL_EXT_3.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/extra/3/LL_EXT_3.jpg",
         "owned": true
     },
     {
@@ -68,7 +68,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Doppio identita",
         "originalni_broj": "1",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/1/LL_SD_1.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/1/LL_SD_1.jpg",
         "owned": false
     },
     {
@@ -86,7 +86,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Hellraiser",
         "originalni_broj": "2",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/2/LL_SD_2.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/2/LL_SD_2.jpg",
         "owned": false
     },
     {
@@ -104,7 +104,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Bagiori da una stella",
         "originalni_broj": "3",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/3/LL_SD_3.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/3/LL_SD_3.jpg",
         "owned": false
     },
     {
@@ -122,7 +122,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Axis",
         "originalni_broj": "4",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/4/LL_SD_4.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/4/LL_SD_4.jpg",
         "owned": true
     },
     {
@@ -140,7 +140,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/5/LL_SD_5.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/5/LL_SD_5.jpg",
         "owned": true
     },
     {
@@ -158,7 +158,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/6/LL_SD_6.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/6/LL_SD_6.jpg",
         "owned": true
     },
     {
@@ -176,7 +176,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "La citta i brucia",
         "originalni_broj": "7",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/7/LL_SD_7.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/7/LL_SD_7.jpg",
         "owned": true
     },
     {
@@ -194,7 +194,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/8/LL_SD_8.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/8/LL_SD_8.jpg",
         "owned": true
     },
     {
@@ -212,7 +212,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Fratelli in armi",
         "originalni_broj": "9",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/9/LL_SD_9.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/9/LL_SD_9.jpg",
         "owned": true
     },
     {
@@ -230,7 +230,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Fino alla fine del mondo",
         "originalni_broj": "10",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/10/LL_SD_10.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/10/LL_SD_10.jpg",
         "owned": true
     },
     {
@@ -248,7 +248,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/11/LL_SD_11.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/11/LL_SD_11.jpg",
         "owned": true
     },
     {
@@ -266,7 +266,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/12/LL_SD_12.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/12/LL_SD_12.jpg",
         "owned": true
     },
     {
@@ -284,7 +284,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/13/LL_SD_13.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/13/LL_SD_13.jpg",
         "owned": true
     },
     {
@@ -302,7 +302,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Metallika",
         "originalni_broj": "14",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/14/LL_SD_14.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/14/LL_SD_14.jpg",
         "owned": false
     },
     {
@@ -320,7 +320,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Subway",
         "originalni_broj": "15",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/15/LL_SD_15.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/15/LL_SD_15.jpg",
         "owned": true
     },
     {
@@ -338,7 +338,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/16/LL_SD_16.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/16/LL_SD_16.jpg",
         "owned": true
     },
     {
@@ -356,7 +356,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/17/LL_SD_17.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/17/LL_SD_17.jpg",
         "owned": false
     },
     {
@@ -374,7 +374,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/18/LL_SD_18.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/18/LL_SD_18.jpg",
         "owned": true
     },
     {
@@ -392,7 +392,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/19/LL_SD_19.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/19/LL_SD_19.jpg",
         "owned": false
     },
     {
@@ -410,7 +410,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/20/LL_SD_20.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/20/LL_SD_20.jpg",
         "owned": false
     },
     {
@@ -428,7 +428,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/21/LL_SD_21.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/21/LL_SD_21.jpg",
         "owned": true
     },
     {
@@ -446,7 +446,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/22/LL_SD_22.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/22/LL_SD_22.jpg",
         "owned": true
     },
     {
@@ -464,7 +464,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/23/LL_SD_23.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/23/LL_SD_23.jpg",
         "owned": false
     },
     {
@@ -482,7 +482,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/24/LL_SD_24.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/24/LL_SD_24.jpg",
         "owned": true
     },
     {
@@ -500,7 +500,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/25/LL_SD_25.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/25/LL_SD_25.jpg",
         "owned": true
     },
     {
@@ -518,7 +518,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "L'altra metà del cielo",
         "originalni_broj": "26",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/26/LL_SD_26.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/26/LL_SD_26.jpg",
         "owned": false
     },
     {
@@ -536,7 +536,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Game Town",
         "originalni_broj": "27",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/27/LL_SD_27.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/27/LL_SD_27.jpg",
         "owned": true
     },
     {
@@ -554,7 +554,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/28/LL_SD_28.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/28/LL_SD_28.jpg",
         "owned": true
     },
     {
@@ -572,7 +572,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Wasteland",
         "originalni_broj": "29",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/29/LL_SD_29.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/29/LL_SD_29.jpg",
         "owned": false
     },
     {
@@ -590,7 +590,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Prigioniero del tempo",
         "originalni_broj": "30",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/30/LL_SD_30.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/30/LL_SD_30.jpg",
         "owned": true
     },
     {
@@ -608,7 +608,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/31/LL_SD_31.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/31/LL_SD_31.jpg",
         "owned": true
     },
     {
@@ -626,7 +626,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/32/LL_SD_32.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/32/LL_SD_32.jpg",
         "owned": true
     },
     {
@@ -644,7 +644,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/33/LL_SD_33.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/33/LL_SD_33.jpg",
         "owned": true
     },
     {
@@ -662,7 +662,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/34/LL_SD_34.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/34/LL_SD_34.jpg",
         "owned": true
     },
     {
@@ -680,7 +680,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/35/LL_SD_35.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/35/LL_SD_35.jpg",
         "owned": true
     },
     {
@@ -698,7 +698,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/36/LL_SD_36.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/36/LL_SD_36.jpg",
         "owned": false
     },
     {
@@ -716,7 +716,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/37/LL_SD_37.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/37/LL_SD_37.jpg",
         "owned": true
     },
     {
@@ -734,7 +734,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "La foresta dei misteri",
         "originalni_broj": "38",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/38/LL_SD_38.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/38/LL_SD_38.jpg",
         "owned": true
     },
     {
@@ -752,7 +752,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Scontro finale",
         "originalni_broj": "39",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/39/LL_SD_39.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/39/LL_SD_39.jpg",
         "owned": true
     },
     {
@@ -770,7 +770,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Eroi",
         "originalni_broj": "40",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/40/LL_SD_40.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/40/LL_SD_40.jpg",
         "owned": false
     },
     {
@@ -788,7 +788,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/41/LL_SD_41.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/41/LL_SD_41.jpg",
         "owned": true
     },
     {
@@ -806,7 +806,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/42/LL_SD_42.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/42/LL_SD_42.jpg",
         "owned": true
     },
     {
@@ -824,7 +824,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Milano rosso sangue",
         "originalni_broj": "43",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/43/LL_SD_43.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/43/LL_SD_43.jpg",
         "owned": true
     },
     {
@@ -842,7 +842,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/44/LL_SD_44.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/44/LL_SD_44.jpg",
         "owned": true
     },
     {
@@ -860,7 +860,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/45/LL_SD_45.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/45/LL_SD_45.jpg",
         "owned": true
     },
     {
@@ -878,7 +878,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/46/LL_SD_46.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/46/LL_SD_46.jpg",
         "owned": true
     },
     {
@@ -896,7 +896,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/47/LL_SD_47.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/47/LL_SD_47.jpg",
         "owned": true
     },
     {
@@ -914,7 +914,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/48/LL_SD_48.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/48/LL_SD_48.jpg",
         "owned": true
     },
     {
@@ -932,7 +932,7 @@
         "broj_stranica": "0",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/49/LL_SD_49.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/49/LL_SD_49.jpg",
         "owned": true
     },
     {
@@ -950,7 +950,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/50/LL_SD_50.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/50/LL_SD_50.jpg",
         "owned": true
     },
     {
@@ -968,7 +968,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/51/LL_SD_51.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/51/LL_SD_51.jpg",
         "owned": true
     },
     {
@@ -986,7 +986,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/52/LL_SD_52.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/52/LL_SD_52.jpg",
         "owned": true
     },
     {
@@ -1004,7 +1004,7 @@
         "broj_stranica": "94",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/53/LL_SD_53.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/53/LL_SD_53.jpg",
         "owned": true
     },
     {
@@ -1022,7 +1022,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Il valeno di Biancaneve",
         "originalni_broj": "54",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/normal/54/LL_SD_54.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/normal/54/LL_SD_54.jpg",
         "owned": true
     },
     {
@@ -1040,7 +1040,7 @@
         "broj_stranica": "98",
         "originalni_naslov": "Attacco mortale",
         "originalni_broj": "69",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/special/55/LL_LU_55.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/special/55/LL_LU_55.jpg",
         "owned": true
     },
     {
@@ -1058,7 +1058,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "La caccia",
         "originalni_broj": "70",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/special/56/LL_LU_56.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/special/56/LL_LU_56.jpg",
         "owned": true
     },
     {
@@ -1076,7 +1076,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "Fiamme nella notte",
         "originalni_broj": "71",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/special/57/LL_LU_57.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/special/57/LL_LU_57.jpg",
         "owned": true
     },
     {
@@ -1094,7 +1094,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "La citta degli angeli",
         "originalni_broj": "72",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/special/58/LL_LU_58.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/special/58/LL_LU_58.jpg",
         "owned": false
     },
     {
@@ -1112,7 +1112,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/special/59/LL_LU_59.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/special/59/LL_LU_59.jpg",
         "owned": true
     },
     {
@@ -1130,7 +1130,7 @@
         "broj_stranica": "94",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/special/60/LL_LU_60.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/special/60/LL_LU_60.jpg",
         "owned": true
     },
     {
@@ -1148,7 +1148,7 @@
         "broj_stranica": "96",
         "originalni_naslov": "N/A",
         "originalni_broj": "N/A",
-        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/misc/static/lazarus_ledd_comics/special/61/LL_LU_61.jpg",
+        "image_path": "/Users/pjuwy/Axiros/AXESS/source_code/tools/comic_book_library/static/lazarus_ledd_comics/special/61/LL_LU_61.jpg",
         "owned": false
     }
 ]
