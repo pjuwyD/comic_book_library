@@ -85,7 +85,7 @@ http://127.0.0.1:5000
 
 ## Look and feel
 
-![Screenshot 1](static/images/scr1.png)
-![Screenshot 2](static/images/scr2.png)
-![Screenshot 3](static/images/scr3.png)
-![Screenshot 4](static/images/scr4.png)
+![Screenshot 1](comic_book_library/static/images/scr1.png)
+![Screenshot 2](comic_book_library/static/images/scr2.png)
+![Screenshot 3](comic_book_library/static/images/scr3.png)
+![Screenshot 4](comic_book_library/static/images/scr4.png)
